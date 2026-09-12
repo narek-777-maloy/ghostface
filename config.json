@@ -1,0 +1,16 @@
+{
+  "token": "MTU0ODQ2NzU5OTExNjA3OTE4Ng.GK7GK8.336vJxV0w4tPapDfAd0-iT42-uff-bxXN3QHl8",
+  "clientId": "ID_ПРИЛОЖЕНИЯ_БОТА",
+  "guildId": "1547531639784214530",
+
+  "logChannelId": "1548372480333320202",
+  "inviteLogChannelId": "1547531645957972134",
+
+  "staffReviewChannelId": "1547531646419603486",
+  "mediaReviewChannelId": "1547531646419603486",
+
+  "adminRoleIds": ["1548007910234263662"],
+
+  "giveawayEmoji": "🎉",
+  "giveawayPingRoleId": "1548030011552825345"
+}
