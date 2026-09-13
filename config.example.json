@@ -1,0 +1,12 @@
+{
+  "token": "PUT_BOT_TOKEN_HERE",
+  "clientId": "PUT_APPLICATION_ID_HERE",
+  "guildId": "1547531639784214530",
+  "logChannelId": "1548372480333320202",
+  "inviteLogChannelId": "1547531645957972134",
+  "staffReviewChannelId": "1547531646419603486",
+  "mediaReviewChannelId": "1547531646419603486",
+  "adminRoleIds": [
+    "1548007910234263662"
+  ]
+}
